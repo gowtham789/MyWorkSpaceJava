@@ -1,0 +1,7 @@
+127.0.0.1 - - [14/Jul/2018:17:45:20 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:17:45:23 +0530] "GET /OnlineBankingSystem/ HTTP/1.1" 200 2352
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:17:45:23 +0530] "GET /OnlineBankingSystem/JSP/logo.PNG HTTP/1.1" 200 28223
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:17:45:23 +0530] "GET /OnlineBankingSystem/JSP/Login.css HTTP/1.1" 200 2098
+127.0.0.1 - - [14/Jul/2018:17:47:10 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:17:47:11 +0530] "GET /OnlineBankingSystem/ HTTP/1.1" 200 2352
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:17:47:15 +0530] "GET /OnlineBankingSystem/loginpage.obj?role=customer HTTP/1.1" 500 13861

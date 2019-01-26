@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Aug 18 14:40:40 IST 2018
+org.eclipse.jst.jee.server\:/binary\:D\:\\Gowtham\\eclipse-workspace\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Gowtham\\.m2\\repository\\org\\springframework\\spring-web\\4.3.4.RELEASE\\spring-web-4.3.4.RELEASE.jar=WEB-INF/lib/spring-web-4.3.4.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\Gowtham\\eclipse-workspace\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE-sources.jar
